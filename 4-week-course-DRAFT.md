@@ -52,7 +52,7 @@
 - [Graph from slope-intercept equation example | Algebra I | Khan Academy](https://www.youtube.com/watch?v=uk7gS3cZVp4) (3m 1s)
 - [Comparing linear functions 2 | Algebra I | Khan Academy](https://www.youtube.com/watch?v=wl2iQAuQl7Y) (2m 35s)
 - [Finding intercepts from an equation | Algebra I | Khan Academy](https://www.youtube.com/watch?v=xGmef7lFc5w) (4m 8s)
-- [Finding the x-intercept of a line | Algebra I | Khan Academy](https://www.youtube.com/watch?v=xiQdQLNmuOr) (1m 42s)
+- [Finding the x-intercept of a line | Algebra I | Khan Academy](https://www.youtube.com/watch?v=xiIQQNufFuU) (1m 42s)
 
 ### 1/02 - Graphing and transformations
 
@@ -145,7 +145,7 @@
 - [The determinant ｜ Chapter 6, Essence of linear algebra](https://www.youtube.com/watch?v=Ip3X9LOh2bU) (10m 3s)
 - [Inverse matrices, column space and null space ｜ Chapter 7, Essence of linear algebra](https://www.youtube.com/watch?v=uQhTuRlWMxw) (12m 8s)
 - [Nonsquare matrices as transformations between dimensions ｜ Chapter 8, Essence of linear algebra](https://www.youtube.com/watch?v=v8VSDg_WQlA) (4m 27s)
-- [Dot products and duality ｜ Chapter 9, Essence of linear algebra](https://www.youtube.com/watch?v=LyGKycYT2v8) (14m 11s)
+- [Dot products and duality ｜ Chapter 9, Essence of linear algebra](https://www.youtube.com/watch?v=LyGKycYT2v0) (14m 11s)
 - [Cross products ｜ Chapter 10, Essence of linear algebra](https://www.youtube.com/watch?v=eu6i7WJeinw) (8m 53s)
 - [Cross products in the light of linear transformations ｜ Chapter 11, Essence of linear algebra](https://www.youtube.com/watch?v=BaM7OCEm3G0) (13m 10s)
 - [Cramer's rule, explained geometrically ｜ Chapter 12, Essence of linear algebra](https://www.youtube.com/watch?v=jBsC34PxzoM) (12m 12s)
