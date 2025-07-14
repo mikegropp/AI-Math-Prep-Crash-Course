@@ -131,7 +131,7 @@
 - [Inductive reasoning 3 | Sequences, series and induction | Precalculus | Khan Academy](https://www.youtube.com/watch?v=AN1gD0lhZ9Y) (3m 3s)
 - [Series as sum of sequence | Sequences, series and induction | Precalculus | Khan Academy](https://www.youtube.com/watch?v=9Gz1Bw3n7IU) (2m 53s)
 - [Proof by induction | Sequences, series and induction | Precalculus | Khan Academy](https://www.youtube.com/watch?v=wblW_M_HVQ8) (9m 23s)
-- [Another derivation of the sum of an infinite geometric series | Precalculus | Khan Academy](https://www.youtube.com/watch?v=qpj27pTKkeo) (7m 53s)
+- [Another derivation of the sum of an infinite geometric series | Precalculus | Khan Academy](https://www.youtube.com/watch?v=wqnpSzEzq1w) (7m 53s)
 
 ## Week 2: Linear Algebra
 
