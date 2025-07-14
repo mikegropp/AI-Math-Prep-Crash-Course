@@ -1,14 +1,16 @@
 # 4-Week AI Math Prep Crash Course
 
+NOTE: THIS IS A WORK IN PROGRESS. I am shooting for a faster approach. Currently it's over 60 hours of videos.
+
 This 20-hour crash course to take someone from absolute basic math to an advanced enough level to jump into AI. Precalculus -> Linear Algebra -> Calculus -> Statistics.
 
 This is not an exhaustive guide nor is it meant to be followed exactly. I plan to fast forward and skip over most precalculus, but it's here for completeness of topics.
 
 Finally, this is a rough curriculum I generated with Grok 4. It's not designed to be perfect, just helpful. It largely draws from playlists on these topics, but cuts out unnecessary videos that go into non-essential or tangential topics, or just adds additional examples or explanation which didn't make my cut.
 
-## Week 1: Precalculus Review
+## Week 1: Precalculus Review (13h 57m 19s)
 
-### 1/01 - Equations and functions
+### 1/01 - Equations and functions (3h 26m 45s)
 
 - [Graphing proportional relationships example | 8th grade | Khan Academy](https://www.youtube.com/watch?v=1F7LAJEVp-U) (4m 31s)
 - [Similar triangles to prove that the slope is constant for a line | Algebra I | Khan Academy](https://www.youtube.com/watch?v=24WMbh1BBKc) (7m 55s)
@@ -30,7 +32,7 @@ Finally, this is a rough curriculum I generated with Grok 4. It's not designed t
 - [Evaluating functions given their formula | Functions and their graphs | Algebra II | Khan Academy](https://www.youtube.com/watch?v=Id6UovYjd-M) (0m 58s)
 - [Graphing proportional relationships example 3 | 8th grade | Khan Academy](https://www.youtube.com/watch?v=LoKEPEPaNm4) (3m 9s)
 - [Introduction to the coordinate plane | Introduction to algebra | Algebra I | Khan Academy](https://www.youtube.com/watch?v=N4nrdf0yYfM) (11m 22s)
-- [Linear and nonlinear functions (example 2) | 8th grade | Khan Academy](https://www.youtube.com/watch?v=OWPVZoxCQ--U) (3m 34s)
+- [Linear and nonlinear functions (example 2) | 8th grade | Khan Academy](https://www.youtube.com/watch?v=OWPVZoxNe-U) (3m 34s)
 - [Linear and nonlinear functions (example 1) | 8th grade | Khan Academy](https://www.youtube.com/watch?v=Pt-Tn6L60-o) (2m 24s)
 - [Recognizing functions (example 4) | Functions and their graphs | Algebra II | Khan Academy](https://www.youtube.com/watch?v=QWLcNxQ3KvQ) (3m 33s)
 - [Comparing linear functions 3 | Algebra I | Khan Academy](https://www.youtube.com/watch?v=QYoNHOjr7Rg) (3m 39s)
@@ -60,11 +62,11 @@ Finally, this is a rough curriculum I generated with Grok 4. It's not designed t
 - [Finding intercepts from an equation | Algebra I | Khan Academy](https://www.youtube.com/watch?v=xGmef7lFc5w) (4m 8s)
 - [Finding the x-intercept of a line | Algebra I | Khan Academy](https://www.youtube.com/watch?v=xiIQQNufFuU) (1m 42s)
 
-### 1/02 - Graphing and transformations
+### 1/02 - Graphing and transformations (7m 12s)
 
 - [Function inverses example 2 | Functions and their graphs | Algebra II | Khan Academy](https://www.youtube.com/watch?v=aeyFb2eVH1c) (7m 12s)
 
-### 1/03 - Trigonometry review
+### 1/03 - Trigonometry review (8h 0m 42s)
 
 - [Basic trigonometry | Basic trigonometry | Trigonometry | Khan Academy](https://www.youtube.com/watch?v=Jsiy4TxgIME) (9m 17s)
 - [Basic trigonometry ｜ Basic trigonometry ｜ Trigonometry ｜ Khan Academy](https://www.youtube.com/watch?v=Jsiy4TxgIME) (9m 16s)
@@ -115,7 +117,7 @@ Finally, this is a rough curriculum I generated with Grok 4. It's not designed t
 - [Trigonometric system example ｜ Trig identities and examples ｜ Trigonometry ｜ Khan Academy](https://www.youtube.com/watch?v=Y2ed-g8Lpdc) (11m 1s)
 - [Trig challenge problem： area of a triangle ｜ Khan Academy](https://www.youtube.com/watch?v=smtrrefmC40) (16m 35s)
 
-### 1/04 - Introduction to sequences and summation
+### 1/04 - Introduction to sequences and summation (2h 22m 40s)
 
 - [Alternate proof to induction for integer sum | Precalculus | Khan Academy](https://www.youtube.com/watch?v=1wnIsgUivEQ) (3m 32s)
 - [Repeating decimal as infinite geometric series | Precalculus | Khan Academy](https://www.youtube.com/watch?v=2BgWWsypzLA) (8m 2s)
@@ -139,9 +141,9 @@ Finally, this is a rough curriculum I generated with Grok 4. It's not designed t
 - [Proof by induction | Sequences, series and induction | Precalculus | Khan Academy](https://www.youtube.com/watch?v=wblW_M_HVQ8) (9m 23s)
 - [Another derivation of the sum of an infinite geometric series | Precalculus | Khan Academy](https://www.youtube.com/watch?v=wqnpSzEzq1w) (7m 53s)
 
-## Week 2: Linear Algebra
+## Week 2: Linear Algebra (3h 0m 44s)
 
-### 2/01 - Vectors
+### 2/01 - Vectors (3h 0m 44s)
 
 - [Vectors | Chapter 1, Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs) (9m 51s)
 - [Linear combinations, span, and basis vectors ｜ Chapter 2, Essence of linear algebra](https://www.youtube.com/watch?v=k7RM-ot2NWY) (9m 59s)
@@ -160,9 +162,9 @@ Finally, this is a rough curriculum I generated with Grok 4. It's not designed t
 - [A quick trick for computing eigenvalues ｜ Chapter 15, Essence of linear algebra](https://www.youtube.com/watch?v=e50Bj7jn9IQ) (13m 12s)
 - [Abstract vector spaces ｜ Chapter 16, Essence of linear algebra](https://www.youtube.com/watch?v=TgKwz5Ikpc8) (16m 46s)
 
-## Week 3: Calculus I
+## Week 3: Calculus I (34h 22m 14s)
 
-### 3/01 - Limits and derivatives
+### 3/01 - Limits and derivatives (2h 6m 44s)
 
 - [Introduction to limits | Limits | Differential Calculus | Khan Academy](https://www.youtube.com/watch?v=riXcZT2ICjA) (11m 32s)
 - [The essence of calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM) (17m 4s)
@@ -173,7 +175,7 @@ Finally, this is a rough curriculum I generated with Grok 4. It's not designed t
 - [Implicit differentiation, what's going on here？ ｜ Chapter 6, Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1faQ) (15m 33s)
 - [Limits, L'Hôpital's rule, and epsilon delta definitions ｜ Chapter 7, Essence of calculus](https://www.youtube.com/watch?v=kfF40MiS7zA) (18m 26s)
 
-### 3/02 - Derivative applications
+### 3/02 - Derivative applications (6h 41m 22s)
 
 - [Calculus 1 Lecture 2.5: Finding Derivatives of Trigonometric Functions](https://www.youtube.com/watch?v=5S7oOOcRGSg) (48m 43s)
 - [Calculus 1 Lecture 3.1: Increasing/Decreasing and Concavity of Functions](https://www.youtube.com/watch?v=8J1t3FYfDsw) (94m 6s)
@@ -181,7 +183,7 @@ Finally, this is a rough curriculum I generated with Grok 4. It's not designed t
 - [Calculus 1 Lecture 3.7: Optimization; Max/Min Application Problems](https://www.youtube.com/watch?v=SWZcq_biZLw) (94m 42s)
 - [Calculus 1 Lecture 4.3: Area Under a Curve, Limit Approach, Riemann Sums](https://www.youtube.com/watch?v=F0uuW-I6icY) (127m 2s)
 
-### 3/03 - Integrals
+### 3/03 - Integrals (25h 11m 49s)
 
 - [Geometric Series and Geometric Sequences - Basic Introduction](https://www.youtube.com/watch?v=zRKZ0-kOUZM) (31m 19s)
 - [How To Find The Sum of a Geometric Series](https://www.youtube.com/watch?v=URqODVcwqn8) (5m 14s)
@@ -283,20 +285,20 @@ Finally, this is a rough curriculum I generated with Grok 4. It's not designed t
 - [Basic Differentiation Rules For Derivatives](https://www.youtube.com/watch?v=IvLpN1G1Ncg) (20m 43s)
 - [Differentiation Formulas - Notes](https://www.youtube.com/watch?v=AdLAkD-r9Rs) (13m 50s)
 
-### 3/04 - Series
+### 3/04 - Series (22m 19s)
 
 - [Taylor series | Chapter 11, Essence of calculus](https://www.youtube.com/watch?v=3d6DsjIBzJ4) (22m 19s)
 
-## Week 4: Multivariable Calculus and Probability
+## Week 4: Multivariable Calculus and Probability (11h 16m 24s)
 
-### 4/01 - Partial derivatives and gradients
+### 4/01 - Partial derivatives and gradients (42m 16s)
 
 - [Partial derivatives 2 | Multivariable Calculus | Khan Academy](https://www.youtube.com/watch?v=-u0mqFqpMNY) (10m 26s)
 - [Partial derivatives | Multivariable Calculus | Khan Academy](https://www.youtube.com/watch?v=1CMDS4-PKKQ) (11m 11s)
 - [Gradient of a scalar field | Multivariable Calculus | Khan Academy](https://www.youtube.com/watch?v=OB8b8aDGLgE) (10m 54s)
 - [Gradient 1 | Partial derivatives, gradient, divergence, curl | Multivariable Calculus | Khan Academy](https://www.youtube.com/watch?v=U7HQ_G_N6vo) (9m 45s)
 
-### 4/02 - Multiple integrals
+### 4/02 - Multiple integrals (57m 35s)
 
 - [Double integral 1 | Double and triple integrals | Multivariable Calculus | Khan Academy](https://www.youtube.com/watch?v=85zGYB-34jQ) (10m 29s)
 - [Double integrals 2 | Double and triple integrals | Multivariable Calculus | Khan Academy](https://www.youtube.com/watch?v=TdLD2Zh-nUQ) (9m 50s)
@@ -305,7 +307,7 @@ Finally, this is a rough curriculum I generated with Grok 4. It's not designed t
 - [Double integrals 5 | Double and triple integrals | Multivariable Calculus | Khan Academy](https://www.youtube.com/watch?v=hrIPO8mQqtw) (9m 51s)
 - [Double integrals 6 | Double and triple integrals | Multivariable Calculus | Khan Academy](https://www.youtube.com/watch?v=0pv0QtOi5l8) (9m 58s)
 
-### 4/03 - Probability
+### 4/03 - Probability (5h 45m 26s)
 
 - [Probability explained | Independent and dependent events | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) (8m 18s)
 - [Probability with playing cards and Venn diagrams | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=obZzOq_wSCg) (10m 2s)
@@ -342,7 +344,7 @@ Finally, this is a rough curriculum I generated with Grok 4. It's not designed t
 - [Expected value of binomial distribution | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=SqcxYnNlI3Y) (16m 55s)
 - [Poisson process 1 | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=3z-M6sbGIZ0) (11m 1s)
 
-### 4/04 - Basic statistics
+### 4/04 - Basic statistics (3h 35m 56s)
 
 - [Statistics| Sample vs. Population Mean](https://www.youtube.com/watch?v=hsPCte_PcVA) (6m 42s)
 - [Statistics| Variance of a population | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=6JFzI1DDyyk) (12m 23s)
@@ -362,6 +364,6 @@ Finally, this is a rough curriculum I generated with Grok 4. It's not designed t
 - [Law of large numbers | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=VpuN8vCQ--M) (8m 59s)
 - [Normal distribution excel exercise | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=yTGEMoaWDCQ) (26m 4s)
 
-### 4/05 - Bayes theorem
+### 4/05 - Bayes theorem (15m 11s)
 
 - [Bayes theorem, the geometry of changing beliefs](https://www.youtube.com/watch?v=HZGCoVF3YvM) (15m 11s)
