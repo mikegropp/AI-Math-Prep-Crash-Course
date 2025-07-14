@@ -154,18 +154,6 @@
 - [A quick trick for computing eigenvalues ｜ Chapter 15, Essence of linear algebra](https://www.youtube.com/watch?v=e50Bj7jn9IQ) (13m 12s)
 - [Abstract vector spaces ｜ Chapter 16, Essence of linear algebra](https://www.youtube.com/watch?v=TgKwz5Ikpc8) (16m 46s)
 
-### 2/02 - Matrices
-
-This section appears to overlap with vectors in the Essence of Linear Algebra series; refer to Week 2/01 for matrix-related videos.
-
-### 2/03 - Vector spaces
-
-This section appears to overlap with vectors in the Essence of Linear Algebra series; refer to Week 2/01 for vector space videos.
-
-### 2/04 - Eigenvalues/eigenvectors
-
-This section appears to overlap with vectors in the Essence of Linear Algebra series; refer to Week 2/01 for eigenvalues/eigenvectors videos.
-
 ## Week 3: Calculus I
 
 ### 3/01 - Limits and derivatives
@@ -368,10 +356,6 @@ This section appears to overlap with vectors in the Essence of Linear Algebra se
 - [Law of large numbers | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=VpuN8vCQ--M) (8m 59s)
 - [Normal distribution excel exercise | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=yTGEMoaWDCQ) (26m 4s)
 
-### 4/05 - Optimization techniques
-
-No specific videos matched; refer to calculus sections for related content like gradient descent.
-
-### 4/06 - Bayes theorem
+### 4/05 - Bayes theorem
 
 - [Bayes theorem, the geometry of changing beliefs](https://www.youtube.com/watch?v=HZGCoVF3YvM) (15m 11s)
