@@ -2,9 +2,9 @@
 
 **NOTE: THIS IS A WORK IN PROGRESS**
 
-This crash course takes you from absolute basic math to an advanced enough level to jump into AI. Precalculus -> Linear Algebra -> Calculus -> Statistics.
+This crash course takes one from absolute basic math to an advanced enough level to jump into AI. Precalculus -> Linear Algebra -> Calculus -> Statistics.
 
-This is not an exhaustive guide nor is it meant to be followed exactly. I plan to fast forward and skip over most precalculus, but it's here for completeness of topics.
+This is not an exhaustive guide nor is it meant to be followed exactly. I plan to fast forward and skip over most precalculus, but it's here for completeness of topics. 
 
 Finally, this is a rough curriculum I generated with Grok 4. It's not designed to be perfect, just helpful. It largely draws from playlists on these topics, but cuts out unnecessary videos that go into non-essential or tangential topics, or just adds additional examples or explanation which didn't make my cut.
 
