@@ -1,6 +1,6 @@
 # 4-Week AI Math Prep Crash Course (~57 hours)
 
-NOTE: THIS IS A WORK IN PROGRESS
+**NOTE: THIS IS A WORK IN PROGRESS**
 
 This crash course takes you from absolute basic math to an advanced enough level to jump into AI. Precalculus -> Linear Algebra -> Calculus -> Statistics.
 
