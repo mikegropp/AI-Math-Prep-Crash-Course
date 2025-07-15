@@ -8,7 +8,7 @@ This is not an exhaustive guide nor is it meant to be followed exactly. I plan t
 
 Finally, this is a rough curriculum I generated with Grok 4. It's not designed to be perfect, just helpful. It largely draws from playlists on these topics, but cuts out unnecessary videos that go into non-essential or tangential topics, or just adds additional examples or explanation which didn't make my cut.
 
-## Week 1: Precalculus Review (13h 57m 19s)
+## Week 1: Precalculus Review (9h 21m 34s)
 
 ### 1/01 - Equations and functions (3h 26m 45s)
 
@@ -66,14 +66,11 @@ Finally, this is a rough curriculum I generated with Grok 4. It's not designed t
 
 - [Function inverses example 2 | Functions and their graphs | Algebra II | Khan Academy](https://www.youtube.com/watch?v=aeyFb2eVH1c) (7m 12s)
 
-### 1/03 - Trigonometry review (8h 0m 42s)
+### 1/03 - Trigonometry review (3h 42m 33s)
 
-- [Basic trigonometry | Basic trigonometry | Trigonometry | Khan Academy](https://www.youtube.com/watch?v=Jsiy4TxgIME) (9m 17s)
 - [Basic trigonometry ｜ Basic trigonometry ｜ Trigonometry ｜ Khan Academy](https://www.youtube.com/watch?v=Jsiy4TxgIME) (9m 16s)
 - [Basic trigonometry II | Basic trigonometry | Trigonometry | Khan Academy](https://www.youtube.com/watch?v=G-T_6hCdMQc) (12m 11s)
-- [Basic trigonometry II ｜ Basic trigonometry ｜ Trigonometry ｜ Khan Academy](https://www.youtube.com/watch?v=G-T_6hCdMQc) (12m 11s)
 - [Radian and degree | Unit circle definition of trig functions | Trigonometry | Khan Academy](https://www.youtube.com/watch?v=9zspW8u6kQM) (9m 56s)
-- [Radian and degree ｜ Unit circle definition of trig functions ｜ Trigonometry ｜ Khan Academy](https://www.youtube.com/watch?v=9zspW8u6kQM) (9m 56s)
 - [Using Trig Functions](https://www.youtube.com/watch?v=znR9tW4AiZI) (10m 3s)
 - [Using Trig Functions Part II](https://www.youtube.com/watch?v=RoXmKYjpLGk) (8m 38s)
 - [The unit circle definition of trigonometric function](https://www.youtube.com/watch?v=6Qv_bPlQS8E) (9m 8s)
@@ -85,12 +82,8 @@ Finally, this is a rough curriculum I generated with Grok 4. It's not designed t
 - [Determining the equation of a trigonometric function](https://www.youtube.com/watch?v=yvW5l9W1hgE) (9m 52s)
 - [Trigonometric Identities](https://www.youtube.com/watch?v=OLzXqIqZZz0) (9m 10s)
 - [Proof| sin(a+b)  = (cos a)(sin b) + (sin a)(cos b)](https://www.youtube.com/watch?v=zw0waJCEc-w) (9m 48s)
-- [Proof： sin(a+b)  = (cos a)(sin b) + (sin a)(cos b)](https://www.youtube.com/watch?v=zw0waJCEc-w) (9m 48s)
 - [Proof| cos(a+b) = (cos a)(cos b)-(sin a)(sin b)](https://www.youtube.com/watch?v=V3-xCPDzQ1Q) (9m 22s)
-- [Proof： cos(a+b) = (cos a)(cos b)-(sin a)(sin b)](https://www.youtube.com/watch?v=V3-xCPDzQ1Q) (9m 22s)
 - [Trig identities part 2 (part 4 if you watch the proofs) | Trigonometry | Khan Academy](https://www.youtube.com/watch?v=ZWSoyUxAQW0) (9m 57s)
-- [Trig identities part 2 (part 4 if you watch the proofs) ｜ Trigonometry ｜ Khan Academy](https://www.youtube.com/watch?v=ZWSoyUxAQW0) (9m 57s)
-- [Trig identities part 3 (part 5 if you watch the proofs) | Trigonometry | Khan Academy](https://www.youtube.com/watch?v=JXCiFbEMTZ4) (8m 35s)
 - [Trig identities part 3 (part 5 if you watch the proofs) ｜ Trigonometry ｜ Khan Academy](https://www.youtube.com/watch?v=JXCiFbEMTZ4) (8m 34s)
 - [Trigonometry word problems (part 1)](https://www.youtube.com/watch?v=1vamogV81Y8) (9m 57s)
 - [Trigonometry word problems (part 2)](https://www.youtube.com/watch?v=4CNnPgabrLE) (2m 51s)
@@ -100,24 +93,8 @@ Finally, this is a rough curriculum I generated with Grok 4. It's not designed t
 - [Ferris Wheel Trig Problem](https://www.youtube.com/watch?v=clXSqjs1wgQ) (7m 21s)
 - [Ferris Wheel Trig Problem (part 2)](https://www.youtube.com/watch?v=_Kw4hLGMkm4) (9m 8s)
 - [Fun Trig Problem](https://www.youtube.com/watch?v=itpI12TeNIg) (10m 1s)
-- [Polar coordinates 1 ｜ Parametric equations and polar coordinates ｜ Precalculus ｜ Khan Academy](https://www.youtube.com/watch?v=jexMSlSDubM) (10m 20s)
-- [Polar coordinates 2 ｜ Parametric equations and polar coordinates ｜ Precalculus ｜ Khan Academy](https://www.youtube.com/watch?v=zGpbSGj_vfE) (9m 31s)
-- [Polar coordinates 3 ｜ Parametric equations and polar coordinates ｜ Precalculus ｜ Khan Academy](https://www.youtube.com/watch?v=9iqN12hCn10) (7m 37s)
-- [Inverse trig functions| arcsin | Trigonometry | Khan Academy](https://www.youtube.com/watch?v=JGU74wbZMLg) (10m 35s)
-- [Inverse trig functions： arcsin ｜ Trigonometry ｜ Khan Academy](https://www.youtube.com/watch?v=JGU74wbZMLg) (10m 35s)
-- [Inverse trig functions| arctan | Trigonometry | Khan Academy](https://www.youtube.com/watch?v=Idxeo49szW0) (10m 6s)
-- [Inverse trig functions： arctan ｜ Trigonometry ｜ Khan Academy](https://www.youtube.com/watch?v=Idxeo49szW0) (10m 6s)
-- [Inverse trig functions| arccos | Trigonometry | Khan Academy](https://www.youtube.com/watch?v=eTDaJ4ebK28) (13m 38s)
-- [Inverse trig functions： arccos ｜ Trigonometry ｜ Khan Academy](https://www.youtube.com/watch?v=eTDaJ4ebK28) (13m 37s)
-- [Trigonometry identity review-fun | Trig identities and examples | Trigonometry | Khan Academy](https://www.youtube.com/watch?v=a70-dYvDJZY) (11m 6s)
-- [Tau versus pi ｜ Graphs of trig functions ｜ Trigonometry ｜ Khan Academy](https://www.youtube.com/watch?v=1jDDfkKKgmc) (16m 21s)
-- [IIT JEE trigonometry problem 1 ｜ Trig identities and examples ｜ Trigonometry ｜ Khan Academy](https://www.youtube.com/watch?v=X7GT9JKoAbo) (15m 13s)
-- [IIT JEE trigonometric maximum ｜ Trig identities and examples ｜ Trigonometry ｜ Khan Academy](https://www.youtube.com/watch?v=tzR9jUCSniQ) (9m 54s)
-- [IIT JEE trigonometric constraints ｜ Trig identities and examples ｜ Trigonometry ｜ Khan Academy](https://www.youtube.com/watch?v=EjtjdJZ2x8w) (12m 48s)
-- [Trigonometric system example ｜ Trig identities and examples ｜ Trigonometry ｜ Khan Academy](https://www.youtube.com/watch?v=Y2ed-g8Lpdc) (11m 1s)
-- [Trig challenge problem： area of a triangle ｜ Khan Academy](https://www.youtube.com/watch?v=smtrrefmC40) (16m 35s)
 
-### 1/04 - Introduction to sequences and summation (2h 22m 40s)
+### 1/04 - Introduction to sequences and summation (2h 6m 4s)
 
 - [Alternate proof to induction for integer sum | Precalculus | Khan Academy](https://www.youtube.com/watch?v=1wnIsgUivEQ) (3m 32s)
 - [Repeating decimal as infinite geometric series | Precalculus | Khan Academy](https://www.youtube.com/watch?v=2BgWWsypzLA) (8m 2s)
@@ -134,11 +111,8 @@ Finally, this is a rough curriculum I generated with Grok 4. It's not designed t
 - [Sum of an infinite geometric series | Sequences, series and induction | Precalculus | Khan Academy](https://www.youtube.com/watch?v=7iXVI2j5QJQ) (4m 45s)
 - [Geometric sequences | Sequences, series and induction | Precalculus | Khan Academy](https://www.youtube.com/watch?v=6H2M4u2u89w) (6m 39s)
 - [Formula for a finite geometric series | Sequences, series and induction | Precalculus | Khan Academy](https://www.youtube.com/watch?v=6r8S5tWUVY8) (9m 38s)
-- [Deductive reasoning 3 | Sequences, series and induction | Precalculus | Khan Academy](https://www.youtube.com/watch?v=8J4aO_6S3L4) (4m 10s)
 - [Introduction to geometric sequences | Sequences, series and induction | Precalculus | Khan Academy](https://www.youtube.com/watch?v=A9mX3K5bTts) (10m 45s)
-- [Inductive reasoning 3 | Sequences, series and induction | Precalculus | Khan Academy](https://www.youtube.com/watch?v=AN1gD0lhZ9Y) (3m 3s)
 - [Series as sum of sequence | Sequences, series and induction | Precalculus | Khan Academy](https://www.youtube.com/watch?v=9Gz1Bw3n7IU) (2m 53s)
-- [Proof by induction | Sequences, series and induction | Precalculus | Khan Academy](https://www.youtube.com/watch?v=wblW_M_HVQ8) (9m 23s)
 - [Another derivation of the sum of an infinite geometric series | Precalculus | Khan Academy](https://www.youtube.com/watch?v=wqnpSzEzq1w) (7m 53s)
 
 ## Week 2: Linear Algebra (3h 0m 44s)
@@ -216,21 +190,6 @@ Finally, this is a rough curriculum I generated with Grok 4. It's not designed t
 - [Power Series Representation By Integration - Calculus 2](https://www.youtube.com/watch?v=0HyM3nM87mk) (22m 37s)
 - [Power Series Representation With Natural Logarithms - Calculus 2](https://www.youtube.com/watch?v=A6JdlY52NFg) (19m 11s)
 - [Taylor Series and Maclaurin Series - Calculus 2](https://www.youtube.com/watch?v=LDBnS4c7YbA) (29m 21s)
-- [Binomial Series](https://www.youtube.com/watch?v=V1AKAkGJlN8) (45m 12s)
-- [Parametric Equations Introduction, Eliminating The Paremeter t, Graphing Plane Curves, Precalculus](https://www.youtube.com/watch?v=97pe-QlSGqA) (33m 28s)
-- [Limits](https://www.youtube.com/watch?v=sHlNroEhW44) (6m 45s)
-- [Evaluating Limits With Fractions and Square Roots](https://www.youtube.com/watch?v=5emT2wpzWk8) (11m 42s)
-- [How To Evaluate Limits of Radical Functions | Calculus](https://www.youtube.com/watch?v=qay5HvT1UK8) (10m 38s)
-- [Limits and Absolute Value](https://www.youtube.com/watch?v=wFeh4ByT0xs) (17m 44s)
-- [Limits of Exponential Functions | Calculus](https://www.youtube.com/watch?v=pcUXo7XbRaM) (10m 20s)
-- [Limits of Trigonometric Functions](https://www.youtube.com/watch?v=HbtuSC_WOW0) (15m 23s)
-- [Infinite Limits and Vertical Asymptotes](https://www.youtube.com/watch?v=xvFqomOpLrs) (29m 4s)
-- [How To Find The Limit At Infinity](https://www.youtube.com/watch?v=NmLljBAg82o) (13m 13s)
-- [Limits of Inverse Trigonometric Functions | Calculus](https://www.youtube.com/watch?v=UPUzKShJPuk) (13m 16s)
-- [Limit Formulas - Calculus 1](https://www.youtube.com/watch?v=R-bHkyRRo0o) (5m 14s)
-- [Limits at Infinity With Radicals & Fractional Exponents](https://www.youtube.com/watch?v=1hyoTeWg6Bs) (6m 14s)
-- [Limits at Infinity & Horizontal Asymptotes](https://www.youtube.com/watch?v=sjLFl7oWP_I) (19m 24s)
-- [Limits and Logarithms](https://www.youtube.com/watch?v=fHzmQmcvheI) (10m 7s)
 - [Logarithms - e - Euler's Number](https://www.youtube.com/watch?v=pDFcu_wLOzo) (12m 10s)
 - [Squeeze Theorem](https://www.youtube.com/watch?v=lVIb9iJ-rRI) (10m 43s)
 - [Greatest Integer Function With Limits & Graphs](https://www.youtube.com/watch?v=teaD5isBTfk) (16m 9s)
@@ -257,7 +216,7 @@ Finally, this is a rough curriculum I generated with Grok 4. It's not designed t
 - [How To Find The Equation of a Tangent Line Using Derivatives - Calculus 1](https://www.youtube.com/watch?v=UOrS2qje2_o) (10m 58s)
 - [How to Find The Point Where The Graph has a Horizontal Tangent Lines Using Derivatives](https://www.youtube.com/watch?v=aNfoxbMUOHk) (8m 5s)
 - [How To Find The Equation of the Normal Line](https://www.youtube.com/watch?v=lEF2mmR3CWU) (10m 25s)
-- [How To Find The Equation of a Secant Line](https://www.youtube.com/watch?v=680o1GLTnDpk) (5m 4s)
+- [How To Find The Equation of a Secant Line](https://www.youtube.com/watch?v=680o1GL-LRg) (5m 4s)
 - [Instantaneous Rate of Change](https://www.youtube.com/watch?v=dvQdQLTnDpk) (11m 22s)
 - [Average Velocity and Instantaneous Velocity](https://www.youtube.com/watch?v=AwxT1xjMP9g) (19m 18s)
 - [Derivatives of Rational Functions](https://www.youtube.com/watch?v=qknoFdPwEco) (11m 52s)
@@ -289,7 +248,7 @@ Finally, this is a rough curriculum I generated with Grok 4. It's not designed t
 
 - [Taylor series | Chapter 11, Essence of calculus](https://www.youtube.com/watch?v=3d6DsjIBzJ4) (22m 19s)
 
-## Week 4: Multivariable Calculus and Probability (11h 16m 24s)
+## Week 4: Multivariable Calculus and Probability (10h 17m 51s)
 
 ### 4/01 - Partial derivatives and gradients (42m 16s)
 
@@ -307,7 +266,7 @@ Finally, this is a rough curriculum I generated with Grok 4. It's not designed t
 - [Double integrals 5 | Double and triple integrals | Multivariable Calculus | Khan Academy](https://www.youtube.com/watch?v=hrIPO8mQqtw) (9m 51s)
 - [Double integrals 6 | Double and triple integrals | Multivariable Calculus | Khan Academy](https://www.youtube.com/watch?v=0pv0QtOi5l8) (9m 58s)
 
-### 4/03 - Probability (5h 45m 26s)
+### 4/03 - Probability (4h 46m 53s)
 
 - [Probability explained | Independent and dependent events | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) (8m 18s)
 - [Probability with playing cards and Venn diagrams | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=obZzOq_wSCg) (10m 2s)
@@ -336,13 +295,8 @@ Finally, this is a rough curriculum I generated with Grok 4. It's not designed t
 - [Birthday probability problem | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=9G0w61pZPig) (13m 16s)
 - [Introduction to Random Variables](https://www.youtube.com/watch?v=IYdiKeQ9xEI) (12m 4s)
 - [Probability density functions | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=Fvi9A_tEmXQ) (10m 1s)
-- [Binomial Distribution 1](https://www.youtube.com/watch?v=O12yTz_8EOw) (12m 15s)
-- [Binomial Distribution 2](https://www.youtube.com/watch?v=FI8xtVaI068) (11m 5s)
-- [Binomial Distribution 3](https://www.youtube.com/watch?v=vKNpQ_KTXvE) (13m 26s)
-- [Binomial Distribution 4](https://www.youtube.com/watch?v=H0ZgOGWUcJw) (10m 46s)
 - [Expected Value| E(X)](https://www.youtube.com/watch?v=j__Kredt7vY) (14m 53s)
 - [Expected value of binomial distribution | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=SqcxYnNlI3Y) (16m 55s)
-- [Poisson process 1 | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=3z-M6sbGIZ0) (11m 1s)
 
 ### 4/04 - Basic statistics (3h 35m 56s)
 
