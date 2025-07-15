@@ -1,12 +1,14 @@
-# 4-Week AI Math Prep Crash Course
+# 4-Week AI Math Prep Crash Course (~57 hours)
 
-NOTE: THIS IS A WORK IN PROGRESS. I am shooting for a faster approach. Currently it's over 60 hours of videos.
+NOTE: THIS IS A WORK IN PROGRESS
 
-This 20-hour crash course to take someone from absolute basic math to an advanced enough level to jump into AI. Precalculus -> Linear Algebra -> Calculus -> Statistics.
+This crash course takes you from absolute basic math to an advanced enough level to jump into AI. Precalculus -> Linear Algebra -> Calculus -> Statistics.
 
 This is not an exhaustive guide nor is it meant to be followed exactly. I plan to fast forward and skip over most precalculus, but it's here for completeness of topics.
 
 Finally, this is a rough curriculum I generated with Grok 4. It's not designed to be perfect, just helpful. It largely draws from playlists on these topics, but cuts out unnecessary videos that go into non-essential or tangential topics, or just adds additional examples or explanation which didn't make my cut.
+
+Feel free to make commnets or suggestions
 
 ## Week 1: Precalculus Review (9h 21m 34s)
 
