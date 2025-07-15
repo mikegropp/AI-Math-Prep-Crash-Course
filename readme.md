@@ -12,7 +12,7 @@ Feel free to make commnets or suggestions
 
 ## Week 1: Precalculus Review (9h 21m 34s)
 
-### 1/01 - Equations and functions (3h 26m 45s)
+### 1/01 - Equations and functions (3h 26m 45s) - feel free to cherry pick a few and skip past if you find it all easy
 
 - [Graphing proportional relationships example | 8th grade | Khan Academy](https://www.youtube.com/watch?v=1F7LAJEVp-U) (4m 31s)
 - [Similar triangles to prove that the slope is constant for a line | Algebra I | Khan Academy](https://www.youtube.com/watch?v=24WMbh1BBKc) (7m 55s)
